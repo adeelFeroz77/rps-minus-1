@@ -1,0 +1,24 @@
+# Logs
+rps-ui/logs
+rps-ui/*.log
+rps-ui/npm-debug.log*
+rps-ui/yarn-debug.log*
+rps-ui/yarn-error.log*
+rps-ui/pnpm-debug.log*
+rps-ui/lerna-debug.log*
+
+rps-ui/node_modules
+rps-ui/dist
+rps-ui/dist-ssr
+rps-ui/*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
