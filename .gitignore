@@ -11,6 +11,7 @@ rps-ui/node_modules
 rps-ui/dist
 rps-ui/dist-ssr
 rps-ui/*.local
+rps-ui/.env
 
 # Editor directories and files
 .vscode/*
